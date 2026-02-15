@@ -25,10 +25,11 @@
  - SİTE ENTEGRE MOD ??
 
 # Screenshot & Video ; 
+<img width="1329" height="545" alt="image" src="https://github.com/user-attachments/assets/d6be1bef-beeb-4dd8-a307-109d554a984e" />
 
 - Bot Start
 https://github.com/user-attachments/assets/96e24846-9c3e-4fdd-a840-2e10add80b6c
-
+<img width="1329" height="545" alt="image" src="https://github.com/user-attachments/assets/d6be1bef-beeb-4dd8-a307-109d554a984e](https://github.com/user-attachments/assets/96e24846-9c3e-4fdd-a840-2e10add80b6c" />
 
 # Copyright 
 Copyright 2020 © Sowwyz , can use it as you wish^^
