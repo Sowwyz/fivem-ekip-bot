@@ -26,6 +26,8 @@
 
 # Screenshot & Video ; 
 
+- Bot Start
+https://github.com/user-attachments/assets/96e24846-9c3e-4fdd-a840-2e10add80b6c
 
 
 # Copyright 
