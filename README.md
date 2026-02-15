@@ -28,6 +28,7 @@
 
 # - Bot Start - Ekibi Tanımla - Ekip Davet/Çıkış -
 ![Adsız tasarım](https://github.com/user-attachments/assets/f6520223-c4ec-4479-8d01-9de295e640e4)
+![Adsız tasarım (2)](https://github.com/user-attachments/assets/d67dc628-039f-4634-b789-07f251e9f1f7)
 
 # Copyright 
 Copyright 2020 © Sowwyz , can use it as you wish^^
