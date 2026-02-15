@@ -1,0 +1,11 @@
+{ 
+    "token": "",
+    "BotClientID": "bot id",
+    "prefix": ["."],
+    "GuildID": "Serverİd",
+    "owners": ["260481838773043201"],
+    "BotDurum": ["GITHUB - SOWWYZ "], 
+    "BotSesKanal": "Bot seste kalacaksa ses kanal id ",
+    "ogRolID": "Sunucu Og id"
+}
+

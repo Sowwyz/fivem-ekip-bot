@@ -1,0 +1,23 @@
+{
+  "name": "Sowwyz",
+  "version": "v1.0.0",
+  "description": "Sowwyz.",
+  "author": "Sowwyz",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.9.0",
+    "@discordjs/rest": "^2.4.0",
+    "@discordjs/voice": "^0.19.0",
+    "@snazzah/davey": "^0.1.9",
+    "better-sqlite3": "^12.6.2",
+    "discord-api-types": "^0.37.101",
+    "discord.js": "^14.16.3",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.23.0",
+    "quick.db": "^9.1.7"
+  }
+}
