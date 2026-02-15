@@ -26,9 +26,11 @@
 
 # Screenshot & Video ; 
 <img width="1329" height="545" alt="image" src="https://github.com/user-attachments/assets/d6be1bef-beeb-4dd8-a307-109d554a984e" />
+<img width="1310" height="193" alt="image" src="https://github.com/user-attachments/assets/a8885b39-7a45-4d51-abc8-d518d86f284b" />
+<img width="1739" height="1033" alt="image" src="https://github.com/user-attachments/assets/d1955f9f-1994-47b4-adfb-d24dcbea0299" />
 
-- Bot Start
-https://github.com/user-attachments/assets/96e24846-9c3e-4fdd-a840-2e10add80b6c
+- Bot Start - Ekibi Tanımla - Ekip Davet/Çıkış -
+![Adsız tasarım](https://github.com/user-attachments/assets/f6520223-c4ec-4479-8d01-9de295e640e4)
 
 # Copyright 
 Copyright 2020 © Sowwyz , can use it as you wish^^
