@@ -20,13 +20,9 @@
 - ADMIN LOG GORUNUMU ?
 - LIMIT GUNCELLEME ?
 - EKİP SİL TÜM HERKES ROL ÇEKİLMESİ ?
+- SİTE ENTEGRE MOD ????
 
-# BOSS 
- - SİTE ENTEGRE MOD ??
-
-# Screenshot & Video ; 
-
-# - Bot Start - Ekibi Tanımla - Ekip Davet/Çıkış -
+# - Bot Start - Ekibi Tanımla - Ekip Davet/Çıkış - Ekip Sil -
 ![Adsız tasarım](https://github.com/user-attachments/assets/f6520223-c4ec-4479-8d01-9de295e640e4)
 ![Adsız tasarım (2)](https://github.com/user-attachments/assets/d67dc628-039f-4634-b789-07f251e9f1f7)
 ![Adsız tasarım (3)](https://github.com/user-attachments/assets/07ae5698-3cb4-4fcb-908e-737deb31f50b)
